@@ -1,4 +1,5 @@
 export default function Home() {
+  console.log("시작합니다!");
   return (
     <main>
       <img src="/logo.png" alt="A server surrounded by magic sparkles." />
